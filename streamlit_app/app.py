@@ -71,7 +71,7 @@ elif page == "COREFL ++":
     st.subheader('Corpus data')
 
 
-    df = pd.read_csv('./processed_data/learners_combined_data.csv', sep='\t', encoding='utf-8')
+    df = pd.read_csv('../processed_data/learners_combined_data.csv', sep='\t', encoding='utf-8')
 
     df_len = len(df)
     st.write('Data size:',df_len)

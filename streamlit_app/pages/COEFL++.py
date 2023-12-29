@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 from modules import Count_sum
 import matplotlib.pyplot as plt
 from modules import apply_filters
@@ -25,6 +26,11 @@ st.sidebar.markdown("""
 st.markdown("<a name='section-1'></a>", unsafe_allow_html=True)
 st.subheader('Corpus data')
 df = pd.read_csv('learners_combined_data.csv', sep='\t', encoding='utf-8')
+
+file_path = '/Users/micah/code/python-intro/python1121/Dspy-final-project-submission/streamlit_app/learners_combined_data.csv'
+df = pd.read_csv(file_path, sep='\t', encoding='utf-8')
+
+
 df_len = len(df)
 st.write('Data size:',df_len)
 #add proficiency category calomn

@@ -1,5 +1,5 @@
 # PPT: 
-https://docs.google.com/presentation/d/1NI0gBaa4wTtMxoAR2xV3QCuSCItBvBi8M18JdB0-nZs/edit#slide=id.g2a8c3750c8b_0_48
+https://docs.google.com/presentation/d/1NI0gBaa4wTtMxoAR2xV3QCuSCItBvBi8M18JdB0-nZs/edit?usp=sharing
 # Application: 
 https://dspy-final-project-submission-new.streamlit.app/COEFL++
 

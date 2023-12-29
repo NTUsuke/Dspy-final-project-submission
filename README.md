@@ -3,6 +3,9 @@ https://docs.google.com/presentation/d/1NI0gBaa4wTtMxoAR2xV3QCuSCItBvBi8M18JdB0-
 # Application: 
 https://dspy-final-project-submission-new.streamlit.app/COEFL++
 
+# Final Paper: 
+https://github.com/muoegu/Dspy-final-project-submission/blob/main/Final%20Paper.pdf
+
 # Responsibility Chart: 
 | 學號 | Name | 名字 | 系所 | 年級 | 負責 |
 |  ----  | ----  | ----  | ----  | ----  |----  |

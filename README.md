@@ -3,7 +3,7 @@ https://docs.google.com/presentation/d/1NI0gBaa4wTtMxoAR2xV3QCuSCItBvBi8M18JdB0-
 # Application: 
 https://dspy-final-project-submission-new.streamlit.app/COEFL++
 
-# Responsibility Chart": 
+# Responsibility Chart: 
 | 學號 | Name | 名字 | 系所 | 年級 | 負責 |
 |  ----  | ----  | ----  | ----  | ----  |----  |
 | R11142011 | Yusuke Taira | 平雄介 | 語言所 | 碩二 | statistical analysis
